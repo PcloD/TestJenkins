@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{024601E7-9BB2-7AEA-4BFF-2A4D68FF3C72}") = "TestJenkins", "Assembly-CSharp-Editor.csproj", "{A7DA43F6-F6ED-8241-AD8A-D79CB179E8EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7DA43F6-F6ED-8241-AD8A-D79CB179E8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7DA43F6-F6ED-8241-AD8A-D79CB179E8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7DA43F6-F6ED-8241-AD8A-D79CB179E8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7DA43F6-F6ED-8241-AD8A-D79CB179E8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
